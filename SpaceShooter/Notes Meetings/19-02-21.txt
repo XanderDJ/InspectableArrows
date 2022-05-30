@@ -1,0 +1,5 @@
+Plan volgende week:
+
+Begin bij adbullet, start met arrow instanties te beschrijven eerst unit tot unit en dan effecten toevoegen (stap voor stap bv getter dan create dan animatie).
+Tot dat compiler de interface accepteert, wanneer hier dan pas animatie module veranderen naar juiste type signature en implementatie functies
+

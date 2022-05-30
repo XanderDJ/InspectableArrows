@@ -1,0 +1,13 @@
+- Gaan we alle operaties die we voorzien kunnen opvangen met Animation of zijn er operaties die we verder moeten bekijken?
+
+
+Huidig probleem : Initialisatie zit er niet in huidige animatie beschrijving, laat niet toe om meerdere animaties te bekijken
+
+Eerst:
+- opsplitsen in verschillende descripties (Initialisatie, update (key handling), ...)
+- zien of dat alles kan opgesplitst worden en beschreven worden
+
+- Onderzoekspunt
+
+
+Optie. 

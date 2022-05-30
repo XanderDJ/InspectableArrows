@@ -1,0 +1,3 @@
+- ad hoc polymorphism vs parametric poly morphism
+- betere structuur in opbouw (geen tussenstappen beschrijven of beter beschrijven voor de gegronde redenen)
+

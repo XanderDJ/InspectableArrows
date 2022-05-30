@@ -1,0 +1,4 @@
+Nieuwe classes maken die gaan over het spel:
+- spel operations (adding bullets/..)
+
+als extensie op de huidige animatie taal.
